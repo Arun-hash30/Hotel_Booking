@@ -26,7 +26,7 @@ The hotel detail page shows:
 - Room type
 - Amenities
 - Price per night
-- Availability
+
 
 ### 3. Guest browsing
 After guest login, the guest dashboard still shows available rooms and now links each hotel name to its hotel-detail page.
